@@ -8,7 +8,7 @@ Before AI shifted the center of gravity in software development, my technical in
 
 These days, I spend much of my free time using AI to build applications I have always wanted but could never find enough time to create.
 
-The latest example is [Someday Maybe](https://somedaymaybe.app/), my take on a Getting Things Done application.
+The latest example is [GridSnap](https://github.com/konieczkow/gridsnap), an open source alternative to Divvy for macOS.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="visuality-grid-dark.svg">
